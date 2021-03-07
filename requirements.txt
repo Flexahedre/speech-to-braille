@@ -1,0 +1,10 @@
+Flask
+requests
+os
+PIL
+pytesseract
+matplotlib
+creds
+SpeechRecognition
+numpy
+pillow
